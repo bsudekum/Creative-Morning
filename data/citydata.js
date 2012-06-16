@@ -527,13 +527,13 @@ function onZoomend(){
          "website" : "http://twitter.com/#!/Prague_CM"
       },
 
-      "amerstdam" : {
+      "amsterdam" : {
          "type": "FeatureCollection",
          "features": [{ 
             "type": "Feature", 
             "id": 2, 
             "properties": { 
-               "place": "Amerstdam", 
+               "place": "Amsterdam", 
                "x" : -0.607241, "y": 51.6755179
             }, 
             "geometry": { 
@@ -541,7 +541,7 @@ function onZoomend(){
                "coordinates": [ -0.607241, 51.6755179  ] 
             } 
          }],
-         "website" : "http://twitter.com/amerstdam_cm"
+         "website" : "http://twitter.com/amsterdam_cm"
       },
 
       "barcalona" : {
