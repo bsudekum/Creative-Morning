@@ -534,11 +534,11 @@ function onZoomend(){
             "id": 2, 
             "properties": { 
                "place": "Amsterdam", 
-               "x" : -0.607241, "y": 51.6755179
+               "x" : 4.8951679, "y": 52.3702157
             }, 
             "geometry": { 
                "type": "Point", 
-               "coordinates": [ -0.607241, 51.6755179  ] 
+               "coordinates": [ 4.8951679, 52.3702157  ] 
             } 
          }],
          "website" : "http://twitter.com/amsterdam_cm"
